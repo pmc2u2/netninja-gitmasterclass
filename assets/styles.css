@@ -906,7 +906,7 @@ h6 {
 
   .footer-links {
     justify-content: flex-start;
-    gap: 2rem;
+    gap: 4rem;
   }
 
   .footer-bottom {
